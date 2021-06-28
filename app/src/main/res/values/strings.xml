@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyGithubUserApp</string>
+    <string name="username">Username</string>
+    <string name="name">Nama</string>
+    <string name="follower">Follower : </string>
+    <string name="following">Following : </string>
+    <string name="jumlah_follower">Total follower</string>
+    <string name="jumlah_following">Total following</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="location_template">Location : </string>
+    <string name="company_template">Company :</string>
+    <string name="follower_ajah">follower</string>
+    <string name="following_ajah">following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="repository">repository</string>
+    <string name="id">id</string>
+    <string name="tab_1">Follower</string>
+    <string name="tab_2">Following</string>
+    <string name="add_user_to_favorite">add user to favorite</string>
+    <string name="open_github">Open Github Apps</string>
+    <string name="open_app_at_9_a_m">Open App at 9 A.M</string>
+
+    <string name="notification_title">Github Users</string>
+    <string name="notification_message">Let\'s hunt some popular users on github!</string>
+
+</resources>
